@@ -21,6 +21,14 @@ ahihi
 =======
 ducmom
 
+<<<<<<< HEAD
+>>>>>>> e407ef4d87a0aa76a3117364f0cb153b2b97c5d2
+hello everyone :))
+=======
 12121233
 >>>>>>> 92adf26138dd408f2727241d4e8f751c3e35279e
+<<<<<<< HEAD
 hí lại anh nhá hihi haha
+=======
+>>>>>>> f7ae50efa1fdecb492204cf2fe796e1030aab4f6
+>>>>>>> 80f206e5f86315a0c93b9654c4539c8a5ac7b2fe

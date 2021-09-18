@@ -1,4 +1,7 @@
 hiuhiu
 helo cb
+<<<<<<< HEAD
 hello.
 hii
+=======
+>>>>>>> 80f206e5f86315a0c93b9654c4539c8a5ac7b2fe

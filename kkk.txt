@@ -1,8 +1,19 @@
 ﻿zmnzmmn
 xin chào cả lớp 
+<<<<<<< HEAD
 my name is Hieu 
 hey you guys , this is commit by van
 nothing together
 12345678
 this is An
+=======
+
+đây là lớp 1405
+
+my name is Hieu --
+hey you guys , this is commit by van
+nothing together
+12345678
+ducmom
+>>>>>>> d99b2c52774b7b2151c313e5c92c60f8a3b39c2b
 

@@ -1,6 +1,10 @@
 ﻿zmnzmmn
+<<<<<<< HEAD
 xin chào cả lớp cntt 14-05
 
+=======
+xin chào cả  HEAD
+>>>>>>> 9a28f1d1a512334f9f808517e5332fdb5eb1889a
 my name is Hieu 
 hey you guys , this is commit by van
 nothing together
@@ -13,8 +17,27 @@ this is An
 my name is Hieu --
 hey you guys , this is commit by van
 nothing together
+<<<<<<< HEAD
 12345678
 
 Hí anh em hehe
 
 ducmom
+=======
+ HEAD
+Hí anh em hehe
+<<<<<<< HEAD
+ducmom d99b2c52774b7b2151c313e5c92c60f8a3b39c2 e407ef4d87a0aa76a3117364f0cb153b2b97c5d2
+ahihi
+=======
+=======
+ducmom
+
+<<<<<<< HEAD
+>>>>>>> e407ef4d87a0aa76a3117364f0cb153b2b97c5d2
+hello everyone :))
+=======
+12121233
+>>>>>>> 92adf26138dd408f2727241d4e8f751c3e35279e
+>>>>>>> f7ae50efa1fdecb492204cf2fe796e1030aab4f6
+>>>>>>> 9a28f1d1a512334f9f808517e5332fdb5eb1889a
